@@ -11,6 +11,8 @@ ________________________________________
 •	Straight-through Ethernet cables<br>
 ________________________________________
 # Network Topology Diagram
+<img width="1917" height="880" alt="image" src="https://github.com/user-attachments/assets/b37e180e-fa24-4e54-ba43-8c6c909e6524" />
+
 Description:<br>
 •	PC0 and PC1 are assigned to VLAN 10.<br>
 •	PC2 and PC3 are assigned to VLAN 20.<br>
